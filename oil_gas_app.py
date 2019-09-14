@@ -14,7 +14,7 @@ import numpy as np
 
 df = pd.read_csv('U.S._crude_oil_production.csv')
 
-mapbox_access_token = 'pk.eyJ1IjoibWlzaGFiMDQiLCJhIjoiY2p3ZDYzOGVyMDRiMjN5bXF3eWw3eGRkYSJ9.1cw1mE29o6KUuFmgVhLeyw'
+mapbox_access_token
 
 locstates = pd.read_html('https://www.latlong.net/category/states-236-14.html')
 
